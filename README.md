@@ -54,18 +54,7 @@ minecraft-dbms-cli/
 ├── dump.sql
 ├── requirements.txt
 ├── demo.mp4
-├── docs/
-│   ├── DnA\_Project\_Phase\_1.pdf
-│   ├── DnA\_Project\_Phase\_2.pdf
-│   ├── Phase3.pdf
-│   ├── Phase4.pdf
-│   ├── 5.pdf
-│   ├── 5-1.pdf
-│   ├── 5-2.pdf
-└── assets/
-├── sample\_skin.png
-└── schema\_screenshot.png
-
+└── docs/
 ````
 
 ---
